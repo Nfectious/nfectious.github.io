@@ -1,0 +1,19 @@
+Here is the GIF embed link
+    <iframe src="https://giphy.com/embed/y9ybtG6ODK88LOK8H2" width="361" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cameo-mike-tyson-iron-kid-dynamite-y9ybtG6ODK88LOK8H2">via GIPHY</a></p>
+
+
+
+    before using open and send ON java get requests how to create an object that will send this request 
+
+    What is the object 
+
+
+    where to converte the gps coordinates
+
+    https://www.gps-coordinates.net/gps-coordinates-converter
+
+
+
+Using ip for location
+
+https://www.iplocation.net/
